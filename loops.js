@@ -27,3 +27,5 @@ function doWhileLoop(int) {
 }
 
 console.log(forLoop([]))
+console.log(whileLoop(10))
+console.log(doWhileLoop(4))
